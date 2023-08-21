@@ -1,6 +1,25 @@
-.title{
-    color: brown;
+.single-video{
+    box-shadow: 10px 10px 8px 10px #888888;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-top: 5px;
+    margin-bottom: 20px;
+
 }
-.title2{
-    color: red;
+.title{
+    font-size: 15px;
+    display: block;
+    margin: 0;
+ text-align: center;
+  
+    
+}
+.video{
+    margin-top: 5px;
+}
+video{
+    margin-top: 5px;
+    margin: 0;
+    padding: 0;
+    display: block;
 }
