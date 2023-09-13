@@ -2,8 +2,8 @@
     box-shadow: 10px 10px 8px 10px #888888;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    margin-bottom: 20px;
-    height: 251px;
+    margin-bottom: 60px;
+    height: 218px;
 
 }
 .title {
@@ -14,6 +14,6 @@
     font-style: initial;
 }
 .video{
-    height: 215px;
+    height: 100%;
     width: 100%;
 }
